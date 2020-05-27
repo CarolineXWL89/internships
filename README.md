@@ -3,4 +3,4 @@ Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular j
 
 |               Company               |       Position     |                 Notes   
 |:-----------------------------------|:-------------------:|---------------------------------------------------------|
-|Qualcomm|<ul><li>[Software Engineering Internship](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>||
+|Qualcomm|<ul><li>[Software Engineering Internship](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>|Strong coding abilities in C/C++|
