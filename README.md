@@ -1,9 +1,6 @@
 # Internships - Summer 2021
 Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular job updates.
 
-### Actively Hiring List
-### Actively Hiring List
-
 |               Company              | Country |       Job Type      |                    Position
 |:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
 |MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
