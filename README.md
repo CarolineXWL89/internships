@@ -3,7 +3,6 @@ Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular j
 
 ### Actively Hiring List
 
-|               Company              | Country |       Job Type      |                    Position
-|:-----------------------------------|:-------:|:-------------------:|---------------------------------------------------------|
-|MealMe|US|Internship|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>|
-|Hitachi Vantara|US|Internship|<ul><li>[STEM Summer Internship - Java and Python](https://www.hitachivantara.com/en-us/company/careers/job-details.html#jobid=4733968002)</li></ul>|
+| Name  |  Location |  Application Period |  Notes |
+|---|---|---|---|
+|  [Blend](https://jobs.lever.co/blendlabs/2a469512-a8c2-44fa-a260-ef3ae0c90db7?lever-via=2F9sFPC6-M) | San Francisco, CA | Present |
