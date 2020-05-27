@@ -3,4 +3,4 @@ Follow us on [Linkedin](https://www.linkedin.com/company/hiring20) for regular j
 
 |               Company               |       Position     |                 Notes   
 |:-----------------------------------|:-------------------:|---------------------------------------------------------|
-|MealMe|<ul><li>[App Development Internship](https://www.mealme.ai/careers)</li></ul>||
+|Qualcomm|<ul><li>[Software Engineering Internship](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1982304)</li></ul>||
