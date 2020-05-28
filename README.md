@@ -1,5 +1,5 @@
 # Internships - Summer 2021
-This document will be regularly updated with summer 2021 internship positions in Tech (Software Engineering, Product Management, Quant, Analyst etc.)
+This document will be regularly updated with summer 2021 internship positions in Tech (Software Engineering, Product Management, Quant, Analytics etc.)
 
 **For updates on new additions, follow us on [Linkedin](https://www.linkedin.com/company/hiring20).**
 
